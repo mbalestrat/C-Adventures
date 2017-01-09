@@ -1,0 +1,12 @@
+Here are two programs I've built so far in my quest to develop my skills in the C programming language.
+Hopefully you might find these useful.
+
+
+MAGIC 8 BALL
+--------------------------------
+This is literally a virtual 'Magic 8 Ball' toy, run from the console. It scoops a random line from a text file within its resources folder and displays it as a response to the user input.
+
+
+PRINTER
+--------------------------------
+This code simply prints a text file to the console. Nothing too special, but I'm keeping it around in case I need to scavenge any logic from it in the future.
